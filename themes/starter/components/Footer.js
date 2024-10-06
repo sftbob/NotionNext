@@ -90,7 +90,7 @@ export const Footer = props => {
 
         {/* 底部版权信息相关 */}
 
-        <div className='mt-12 border-t border-[#f1939c] border-opacity-40 py-8 lg:mt-[60px]'>
+        <div className='mt-12 border-t border-gray border-opacity-40 py-8 lg:mt-[60px]'>
           <div className='container'>
             <div className='-mx-4 flex flex-wrap'>
               <div className='w-full px-4 md:w-2/3 lg:w-1/2'>
@@ -98,21 +98,21 @@ export const Footer = props => {
                   <div className='-mx-3 flex items-center justify-center md:justify-start'>
                     <a
                       href={siteConfig('STARTER_FOOTER_PRIVACY_POLICY_URL')}
-                      className='px-3 text-base text-[#f1939c] hover:text-white hover:underline'>
+                      className='px-3 text-base text-white hover:text-[#f1939c] hover:underline'>
                       {siteConfig('STARTER_FOOTER_PRIVACY_POLICY_TEXT')}
                     </a>
                     <a
                       href={siteConfig(
                         'STARTER_FOOTER_PRIVACY_LEGAL_NOTICE_URL'
                       )}
-                      className='px-3 text-base text-[#f1939c] hover:text-white hover:underline'>
+                      className='px-3 text-base text-white hover:text-[#f1939c] hover:underline'>
                       {siteConfig('STARTER_FOOTER_PRIVACY_LEGAL_NOTICE_TEXT')}
                     </a>
                     <a
                       href={siteConfig(
                         'STARTER_FOOTER_PRIVACY_TERMS_OF_SERVICE_URL'
                       )}
-                      className='px-3 text-base text-[#f1939c] hover:text-white hover:underline'>
+                      className='px-3 text-base text-white hover:text-[#f1939c] hover:underline'>
                       {siteConfig(
                         'STARTER_FOOTER_PRIVACY_TERMS_OF_SERVICE_TEXT'
                       )}
