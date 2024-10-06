@@ -47,7 +47,7 @@ export const Footer = props => {
                           <li key={i}>
                             <a
                               href={l.URL}
-                              className='mb-3 inline-block text-base text-gray-7 hover:text-primary'>
+                              className='mb-3 inline-block text-base text-gray-7 hover:text-[#f1939c]'>
                               {l.TITLE}
                             </a>
                           </li>
