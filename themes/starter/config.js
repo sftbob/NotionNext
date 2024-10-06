@@ -20,7 +20,7 @@ const CONFIG = {
   STARTER_HERO_BUTTON_2_URL: 'https://github.com/tangly1024/NotionNext', // 英雄区按钮
   STARTER_HERO_BUTTON_2_ICON: '/images/starter/github.svg', // 英雄区按钮2的图标，不需要则留空
 
-  STARTER_HERO_PREVIEW_IMAGE: 'https://pasteboard.co/9X19tANaAQWH.png', // 網站主視覺圖
+  STARTER_HERO_PREVIEW_IMAGE: 'https://file.notion.so/f/f/224112bd-2fb5-47cb-a8ee-e38f1bf369b6/d867a624-6158-4940-9d4e-3c7622c243a9/banner.png?table=block&id=11730451-3d05-8089-a00a-e9924df36587&spaceId=224112bd-2fb5-47cb-a8ee-e38f1bf369b6&expirationTimestamp=1728273600000&signature=NC-mFhULigtidAglDpHpmfZI0TiM7oewtGPhU9KBTqY&downloadName=banner.png', // 網站主視覺圖
 
   // 顶部右侧导航暗流
   STARTER_NAV_BUTTON_1_TEXT: '',
