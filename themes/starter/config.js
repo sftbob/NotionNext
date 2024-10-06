@@ -36,26 +36,26 @@ const CONFIG = {
   STARTER_FEATURE_TEXT_2:
     '，全方位的仲介服務，您的房展顧問。 ', // 特性
 
-  STARTER_FEATURE_1_TITLE_1: '銷售', // 特性1
+  STARTER_FEATURE_1_TITLE_1: '房屋銷售', // 特性1
   STARTER_FEATURE_1_TEXT_1: '３００人團隊聯賣，為您最快找到好買家', // 特性1
   STARTER_FEATURE_1_BUTTON_TEXT: '了解更多', // 特性1
-  STARTER_FEATURE_1_BUTTON_URL: 'https://github.com/tangly1024/NotionNext', // 特性1
+  STARTER_FEATURE_1_BUTTON_URL: 'https://master.ponien.com/onsale', // 特性1
 
-  STARTER_FEATURE_2_TITLE_1: '多种主题定制', // 特性2
-  STARTER_FEATURE_2_TEXT_1: '数十种主题,适用于不同场景，总有一款适合你', // 特性2
+  STARTER_FEATURE_2_TITLE_1: '案件租賃', // 特性2
+  STARTER_FEATURE_2_TEXT_1: '買屋服務的文案買屋服務的文案買屋服務的文案買屋服務的文案', // 特性2
   STARTER_FEATURE_2_BUTTON_TEXT: '了解更多', // 特性2
   STARTER_FEATURE_2_BUTTON_URL:
-    'https://docs.tangly1024.com/article/notion-next-themes', // 特性2
+    '/', // 特性2
 
-  STARTER_FEATURE_3_TITLE_1: '优秀的性能', // 特性3
-  STARTER_FEATURE_3_TEXT_1: '基于NextJS开发，更快的响应速度，更好的SEO', // 特性3
+  STARTER_FEATURE_3_TITLE_1: '投資法規', // 特性3
+  STARTER_FEATURE_3_TEXT_1: '資產配置投資標的', // 特性3
   STARTER_FEATURE_3_BUTTON_TEXT: '了解更多', // 特性3
-  STARTER_FEATURE_3_BUTTON_URL: 'https://docs.tangly1024.com/article/next-js', // 特性3
+  STARTER_FEATURE_3_BUTTON_URL: '/', // 特性3
 
-  STARTER_FEATURE_4_TITLE_1: '便捷的写作体验', // 特性4
-  STARTER_FEATURE_4_TEXT_1: '只需在Notion笔记中编修，自动同步到网站', // 特性4
+  STARTER_FEATURE_4_TITLE_1: '加入大師', // 特性4
+  STARTER_FEATURE_4_TEXT_1: '期待找到好夥伴與我一起前進', // 特性4
   STARTER_FEATURE_4_BUTTON_TEXT: '了解更多', // 特性4
-  STARTER_FEATURE_4_BUTTON_URL: 'https://docs.tangly1024.com/about', // 特性4
+  STARTER_FEATURE_4_BUTTON_URL: '/', // 特性4
 
   // 首页ABOUT区块
   STARTER_ABOUT_ENABLE: true, // ABOUT区块开关
