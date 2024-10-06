@@ -34,7 +34,7 @@ const CONFIG = {
   STARTER_FEATURE_TITLE: '', // 特性
   STARTER_FEATURE_TEXT_1: '房仲哖大師', // 特性
   STARTER_FEATURE_TEXT_2:
-    '，全方位的仲介服務，您的房展顧問。 ', // 特性
+    '，全方位的仲介服務，您的房產顧問。 ', // 特性
 
   STARTER_FEATURE_1_TITLE_1: '房屋銷售', // 特性1
   STARTER_FEATURE_1_TEXT_1: '３００人團隊聯賣，為您最快找到好買家', // 特性1
