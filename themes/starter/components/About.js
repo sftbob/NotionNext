@@ -29,7 +29,7 @@ export const About = () => {
 
                   <a
                     href={siteConfig('STARTER_ABOUT_BUTTON_URL')}
-                    className='inline-flex items-center justify-center rounded-md border border-primary bg-[#f1939c] px-7 py-3 text-center text-base font-medium text-[#f1939c] hover:border-[#a61b29]-dark hover:bg-[#a61b29]'>
+                    className='inline-flex items-center justify-center rounded-md border border-[#a61b29] bg-[#a61b29]px-7 py-3 text-center text-base font-medium text-white hover:border-[#a61b29]-dark hover:bg-[#a61b29]'>
                     {siteConfig('STARTER_ABOUT_BUTTON_TEXT')}
                   </a>
                 </div>
