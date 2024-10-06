@@ -59,13 +59,13 @@ export const About = () => {
 
                     <div className='relative z-10 mb-4 flex items-center justify-center overflow-hidden bg-[#a61b29] px-6 py-12 sm:mb-8 sm:h-[160px] sm:p-5 lg:mb-4 xl:mb-8'>
                       <div>
-                        <span className='block text-5xl font-extrabold text-white'>
+                        <span className='block text-5xl font-extrabold text-white text-opacity-70'>
                           {siteConfig('STARTER_ABOUT_TIPS_1')}
                         </span>
                         <span className='block text-base font-semibold text-white'>
                           {siteConfig('STARTER_ABOUT_TIPS_2')}
                         </span>
-                        <span className='block text-base font-medium text-white text-opacity-70'>
+                        <span className='block text-base font-medium text-white '>
                           {siteConfig('STARTER_ABOUT_TIPS_3')}
                         </span>
                       </div>
