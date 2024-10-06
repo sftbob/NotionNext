@@ -43,7 +43,7 @@ export const Features = () => {
                 </p>
                 <a
                   href={siteConfig('STARTER_FEATURE_1_BUTTON_URL')}
-                  className='text-base font-medium text-dark hover:text-primary dark:text-white dark:hover:text-[#a61b29]'>
+                  className='text-base font-medium text-dark hover:text-[#a61b29] dark:text-white dark:hover:text-[#a61b29]'>
                   {siteConfig('STARTER_FEATURE_1_BUTTON_TEXT')}
                 </a>
               </div>
