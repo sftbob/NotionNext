@@ -20,7 +20,7 @@ const CONFIG = {
   STARTER_HERO_BUTTON_2_URL: 'https://github.com/tangly1024/NotionNext', // 英雄区按钮
   STARTER_HERO_BUTTON_2_ICON: '/images/starter/github.svg', // 英雄区按钮2的图标，不需要则留空
 
-  STARTER_HERO_PREVIEW_IMAGE: 'https://reurl.cc/0dRaAM', // 产品预览图 ，默认读取public目录下图片
+  STARTER_HERO_PREVIEW_IMAGE: 'https://pasteboard.co/9X19tANaAQWH.png', // 網站主視覺圖
 
   // 顶部右侧导航暗流
   STARTER_NAV_BUTTON_1_TEXT: '',
