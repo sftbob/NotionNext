@@ -71,7 +71,7 @@ const CONFIG = {
   STARTER_ABOUT_TIPS_3: '業績屢破新高',
 
   // 首页价格区块
-  STARTER_PRICING_ENABLE: true, // 价格区块开关
+  STARTER_PRICING_ENABLE: false, // 价格区块开关
   STARTER_PRICING_TITLE: '精選案件',
   STARTER_PRICING_TEXT_1: '為您精選的專約委託',
   STARTER_PRICING_TEXT_2:
@@ -108,7 +108,7 @@ const CONFIG = {
   STARTER_PRICING_3_BUTTON_URL:
     'https://tangly1024.lemonsqueezy.com/checkout/buy/df924d66-09dc-42a4-a632-a6b0c5cc4f28',
 
-  // 首页用户测评区块
+  // 客戶推薦
   STARTER_TESTIMONIALS_ENABLE: true, // 测评区块开关
   STARTER_TESTIMONIALS_TITLE: '來自客戶的推薦',
   STARTER_TESTIMONIALS_TEXT_1: '我們，真的像朋友家人',
@@ -189,7 +189,7 @@ const CONFIG = {
     '先检查Notion_Page_ID是否正确配置，其次由于博客的每个页面都有独立缓存，刷新网页后即可解决',
 
   // 团队成员区块
-  STARTER_TEAM_ENABLE: true, // 团队成员区块开关
+  STARTER_TEAM_ENABLE: false, // 团队成员区块开关
   STARTER_TEAM_TITLE: '誠徵隊友',
   STARTER_TEAM_TEXT_1: '以下是我需要的隊友',
   STARTER_TEAM_TEXT_2:
@@ -234,7 +234,7 @@ const CONFIG = {
     '这里会发布一些关于NotionNext的最新动态，包括新的动向、新的未来计划，以及新功能的特性',
 
   // 联系模块
-  STARTER_CONTACT_ENABLE: true, // 联系模块开关
+  STARTER_CONTACT_ENABLE: false, // 联系模块开关
   STARTER_CONTACT_TITLE: '联系我们',
   STARTER_CONTACT_TEXT: '告诉我们您遇到的问题',
   STARTER_CONTACT_LOCATION_TITLE: '我们的位置',
@@ -288,7 +288,7 @@ const CONFIG = {
     }
   ],
 
-  STARTER_FOOTER_SLOGAN: '我们通过技术为品牌和公司创造数字体验。',
+  STARTER_FOOTER_SLOGAN: '找一間房子，過你想過的日子',
 
   // 页脚三列菜单组
   STARTER_FOOTER_LINK_GROUP: [
