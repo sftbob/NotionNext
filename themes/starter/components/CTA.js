@@ -31,7 +31,7 @@ export const CTA = () => {
                     <>
                       <a
                         href={siteConfig('STARTER_CTA_BUTTON_URL')}
-                        className='inline-block rounded-md border border-transparent bg-secondary px-7 py-3 text-base font-medium text-[#f1939c] transition hover:bg-[#a61b29]'>
+                        className='inline-block rounded-md border border-transparent bg-[#f1939c] px-7 py-3 text-[#f1939c] font-medium text-[#f1939c] transition hover:bg-[#a61b29]'>
                         {siteConfig('STARTER_CTA_BUTTON_TEXT')}
                       </a>
                     </>
