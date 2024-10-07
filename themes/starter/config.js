@@ -15,9 +15,9 @@ const CONFIG = {
   // 英雄区两个按钮，如果TEXT留空则隐藏按钮
   STARTER_HERO_BUTTON_1_TEXT: '新案上架', // 英雄区按钮
   STARTER_HERO_BUTTON_1_URL:
-    'https://docs.tangly1024.com/article/vercel-deploy-notion-next', // 英雄区按钮
+    'https://master.ponien.com/newcase', // 英雄区按钮
   STARTER_HERO_BUTTON_2_TEXT: '大師精選', // 英雄区按钮
-  STARTER_HERO_BUTTON_2_URL: 'https://github.com/tangly1024/NotionNext', // 英雄区按钮
+  STARTER_HERO_BUTTON_2_URL: 'https://master.ponien.com/chosen', // 英雄区按钮
   STARTER_HERO_BUTTON_2_ICON: '/images/starter/github.svg', // 英雄区按钮2的图标，不需要则留空
 
   STARTER_HERO_PREVIEW_IMAGE: '/images/starter/hero/banner01.webp', // 網站主視覺圖
@@ -365,7 +365,7 @@ const CONFIG = {
   STARTER_CTA_BUTTON: true, // 是否显示按钮
   STARTER_CTA_BUTTON_URL:
     'https://forms.gle/nEbEYANNLqz8Ux28A',
-  STARTER_CTA_BUTTON_TEXT: '馬上預約哖大師',
+  STARTER_CTA_BUTTON_TEXT: '點擊預約',
 
   STARTER_POST_REDIRECT_ENABLE: true, // 默認開啟重定向
   STARTER_POST_REDIRECT_URL: 'https://master.ponien.com/', // 重定向域名
