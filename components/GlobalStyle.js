@@ -13,9 +13,7 @@ const GlobalStyle = () => {
   return (<style jsx global>{`
 
     ${GLOBAL_CSS}
-img {
-  border-radius: 15px;
-}
+
   `}</style>)
 }
 
