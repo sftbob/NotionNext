@@ -172,21 +172,21 @@ const CONFIG = {
   STARTER_FAQ_TEXT_1: '任何疑問歡迎加LINE聯絡我',
   STARTER_FAQ_TEXT_2: '可先找一下網站上的答案',
 
-  STARTER_FAQ_1_QUESTION: 'NotionNext有帮助文档吗？',
+  STARTER_FAQ_1_QUESTION: ' 房仲只會介紹貴的房子',
   STARTER_FAQ_1_ANSWER:
-    'NotionNext提供了<a href="https://docs.tangly1024.com/about" className="underline">帮助文档</a>，操作<a href="https://www.bilibili.com/video/BV1fM4y1L7Qi/" className="underline">演示视频</a>，以及<a href="https://docs.tangly1024.com/article/chat-community" className="underline">交流社群</a>来协助您完成网站的搭建部署',
+    '「我們的服務是為您量身打造，會根據您的預算、地點、坪數等需求，推薦最適合您的房源。我們不是要賣出最貴的房子，而是要幫助您找到最適合您的家。」',
 
-  STARTER_FAQ_2_QUESTION: '部署后要如何编写文章？',
+  STARTER_FAQ_2_QUESTION: '房仲只在乎成交，不會關心客戶的感受',
   STARTER_FAQ_2_ANSWER:
-    '您可以在Notion中之间添加或修改类型为Post的页面，内容将被实时同步在站点中，详情参考<a className="underline" href="https://docs.tangly1024.com/article/start-to-write">《帮助文档》</a>',
+    '「我們不僅是您的房產顧問，更是您的夥伴。我們關心您的需求，希望您能找到一個滿意的家。成交只是過程，您的滿意才是我們的目標。」',
 
-  STARTER_FAQ_3_QUESTION: '站点部署失败，更新失败？',
+  STARTER_FAQ_3_QUESTION: '找房仲買房會花很多仲介費',
   STARTER_FAQ_3_ANSWER:
-    '通常是配置修改错误导致，请检查配置或者重试操作步骤，或者通过Vercel后台的Deployments中找到错误日志，并向网友求助',
+    '「仲介費是根據交易金額來計算的，我們會協助您辦理相關手續，節省您的時間和精力，相較於您自行處理，往往能獲得更優惠的條件。」',
 
-  STARTER_FAQ_4_QUESTION: '文章没有实时同步？',
+  STARTER_FAQ_4_QUESTION: '買賣房屋不複雜，自己處理就好',
   STARTER_FAQ_4_ANSWER:
-    '先检查Notion_Page_ID是否正确配置，其次由于博客的每个页面都有独立缓存，刷新网页后即可解决',
+    '「買賣房屋涉及許多法律程序和細節，若處理不當，容易產生糾紛。我們擁有豐富的經驗，能協助您順利完成交易，保障您的權益。」',
 
   // 团队成员区块
   STARTER_TEAM_ENABLE: false, // 团队成员区块开关
