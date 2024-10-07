@@ -169,7 +169,7 @@ const CONFIG = {
   //   FAQ 常见问题模块
   STARTER_FAQ_ENABLE: true, // 常见问题模块开关
   STARTER_FAQ_TITLE: '關於房仲業務',
-  STARTER_FAQ_TEXT_1: '你認識甚麼樣的房仲呢?',
+  STARTER_FAQ_TEXT_1: '你認識什麼類型的房仲業務呢?',
   STARTER_FAQ_TEXT_2: '「阿哖了解，買房是人生大事。我會站在您的角度，為您量身打造最適合的購屋方案。無論您是首次購屋的新手，還是經驗豐富的投資者，大師房屋都能提供您最專業的服務。您的需求，就是我的目標。」',
 
   STARTER_FAQ_1_QUESTION: ' 房仲只會介紹貴的房子',
