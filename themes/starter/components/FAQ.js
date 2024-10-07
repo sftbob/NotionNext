@@ -22,7 +22,7 @@ export const FAQ = () => {
           <div className='-mx-4 flex flex-wrap'>
             <div className='w-full px-4'>
               <div className='mx-auto mb-[60px] max-w-[520px] text-center'>
-                <span className='mb-2 block text-lg font-semibold text-primary'>
+                <span className='mb-2 block text-lg font-semibold text-[#a61b29]'>
                   {siteConfig('STARTER_FAQ_TITLE')}
                 </span>
                 <h2 className='mb-3 text-3xl font-bold leading-[1.2] text-dark dark:text-white sm:text-4xl md:text-[40px]'>
