@@ -120,7 +120,7 @@ const CONFIG = {
   STARTER_TESTIMONIALS_ITEMS: [
     {
       STARTER_TESTIMONIALS_ITEM_TEXT:
-        '「原本以為要花很長的時間才能賣出房子，沒想到在您的幫助下，這麼快就找到買家了。您陪同我一起看房，並及時回答客戶提出的所有問題，最終成功促成了這筆交易。真的很感謝您！」！ ',
+        '原本以為要花很長的時間才能賣出房子，沒想到在您的幫助下，這麼快就找到買家了。您陪同我一起看房，並及時回答客戶提出的所有問題，最終成功促成了這筆交易。真的很感謝您！ ',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
         '<https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F22de3fcb-d90d-4271-bc01-f815f476122b%2F4FE0A0C0-E487-4C74-BF8E-6F01A27461B8-14186-000008094BC289A6.jpg?table=collection&id=a320a2cc-6ebe-4a8d-95cc-ea94e63bced9&width=200>',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: '老古',
@@ -129,7 +129,7 @@ const CONFIG = {
     },
     {
       STARTER_TESTIMONIALS_ITEM_TEXT:
-        '「感謝您在這段期間的付出，讓我能順利找到心儀的房子。從一開始的看房，到後來的貸款、過戶，您都一一協助我處理，讓我省下不少心力。尤其是在遇到突發狀況時，您總是能迅速地幫我解決問題，讓我感到非常安心。真的太感謝您了！」',
+        '感謝您在這段期間的付出，讓我能順利找到心儀的房子。從一開始的看房，到後來的貸款、過戶，您都一一協助我處理，讓我省下不少心力。尤其是在遇到突發狀況時，您總是能迅速地幫我解決問題，讓我感到非常安心。真的太感謝您了！',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
         '<https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F0d33d169-f932-41ff-ac6b-88a923c08e02%2F%25E5%25A4%25B4%25E5%2583%258F.jfif?table=collection&id=7787658d-d5c0-4f34-8e32-60c523dfaba3&width=400>',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: 'Aaron',
@@ -138,7 +138,7 @@ const CONFIG = {
     },
     {
       STARTER_TESTIMONIALS_ITEM_TEXT:
-        '「原本以為買房是一件很複雜的事情，沒想到在您的協助下，一切都變得那麼順利。記得有一次看房時，我對社區的環境有些疑慮，您不僅耐心地帶我走了一遍，還幫我打聽了鄰居的評價。就是因為您的專業，我才敢放心地下訂。再次感謝您，讓我能擁有一個溫暖的家。」',
+        '原本以為買房是一件很複雜的事情，沒想到在您的協助下，一切都變得那麼順利。記得有一次看房時，我對社區的環境有些疑慮，您不僅耐心地帶我走了一遍，還幫我打聽了鄰居的評價。就是因為您的專業，我才敢放心地下訂。再次感謝您，讓我能擁有一個溫暖的家。',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
         '<https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6c096b44-beb9-48ee-8f92-1efdde47f3a3%2F338962f1-d352-49c7-9a1b-746e35a7005c%2Fhf.png?table=block&id=ce5a48a9-d77a-4843-a3d9-a78cd4f794ce&spaceId=6c096b44-beb9-48ee-8f92-1efdde47f3a3&width=100&userId=27074aef-7216-41ed-baef-d9b53addd870&cache=v2>',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: '邱X玲',
@@ -151,7 +151,7 @@ const CONFIG = {
   STARTER_FAQ_ENABLE: true, // 常见问题模块开关
   STARTER_FAQ_TITLE: '關於房仲業務',
   STARTER_FAQ_TEXT_1: '你認識那一種房仲人員呢?',
-  STARTER_FAQ_TEXT_2: '「阿哖了解，買房是人生大事。我會站在您的角度，為您量身打造最適合的購屋方案。無論您是首次購屋的新手，還是經驗豐富的投資者，大師房屋都能提供您最專業的服務。您的需求，就是我的目標。」',
+  STARTER_FAQ_TEXT_2: '阿哖了解，買房是人生大事。我會站在您的角度，為您量身打造最適合的購屋方案。無論您是首次購屋的新手，還是經驗豐富的投資者，大師房屋都能提供您最專業的服務。您的需求，就是我的目標。',
 
   STARTER_FAQ_1_QUESTION: ' 房仲只會介紹貴的房子',
   STARTER_FAQ_1_ANSWER:
