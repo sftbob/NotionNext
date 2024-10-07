@@ -358,8 +358,8 @@ const CONFIG = {
 
   // 页面底部的行动呼吁模块
   STARTER_CTA_ENABLE: true,
-  STARTER_CTA_TITLE: '您的需求，我們的專注',
-  STARTER_CTA_TITLE_2: '即刻預約哖大師的時間~',
+  STARTER_CTA_TITLE: '專注在您的需求',
+  STARTER_CTA_TITLE_2: '即刻預約哖大師~',
   STARTER_CTA_DESCRIOTN:
     '我們了解每個人對家的渴望都不同。告訴阿哖!!您的需求，我將為您提供最完善的房產服務。',
   STARTER_CTA_BUTTON: true, // 是否显示按钮
