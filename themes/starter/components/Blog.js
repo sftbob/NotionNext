@@ -17,7 +17,7 @@ export const Blog = ({ posts }) => {
           <div className='-mx-4 flex flex-wrap justify-center'>
             <div className='w-full px-4'>
               <div className='mx-auto mb-[60px] max-w-[485px] text-center'>
-                <span className='mb-2 block text-lg font-semibold text-primary'>
+                <span className='mb-2 block text-lg font-semibold text-[#a61b29]'>
                   {siteConfig('STARTER_BLOG_TITLE')}
                 </span>
                 <h2 className='mb-4 text-3xl font-bold text-dark dark:text-[#a61b29] sm:text-4xl md:text-[40px] md:leading-[1.2]'>
@@ -44,7 +44,7 @@ export const Blog = ({ posts }) => {
                         <img
                           src={item.pageCoverThumbnail}
                           alt={item.title}
-                          className='w-full transition group-hover:rotate-6 group-hover:scale-125'
+                          className='w-full transition group-hover:rotate-1 group-hover:scale-125'
                         />
                       </Link>
                     </div>
@@ -55,7 +55,7 @@ export const Blog = ({ posts }) => {
                       <h3>
                         <Link
                           href={item?.href}
-                          className='mb-4 inline-block text-xl font-semibold text-dark hover:text-primary dark:text-white dark:hover:text-primary sm:text-2xl lg:text-xl xl:text-2xl'>
+                          className='mb-4 inline-block text-xl font-semibold text-dark hover:text-[[#a61b29] dark:text-white dark:hover:text-[#a61b29] sm:text-2xl lg:text-xl xl:text-2xl'>
                           {item.title}
                         </Link>
                       </h3>
