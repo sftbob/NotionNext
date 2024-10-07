@@ -120,7 +120,7 @@ const CONFIG = {
   STARTER_TESTIMONIALS_ITEMS: [
     {
       STARTER_TESTIMONIALS_ITEM_TEXT:
-        '「原本以為要花很長的時間才能賣出房子，沒想到在您的幫助下，這麼快就找到買家了。記得有一次，遇到一位對房子很有興趣的客戶，您陪同我一起看房，並及時回答客戶提出的所有問題，最終成功促成了這筆交易。真的很感謝您！」！ ',
+        '「原本以為要花很長的時間才能賣出房子，沒想到在您的幫助下，這麼快就找到買家了。您陪同我一起看房，並及時回答客戶提出的所有問題，最終成功促成了這筆交易。真的很感謝您！」！ ',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
         'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F22de3fcb-d90d-4271-bc01-f815f476122b%2F4FE0A0C0-E487-4C74-BF8E-6F01A27461B8-14186-000008094BC289A6.jpg?table=collection&id=a320a2cc-6ebe-4a8d-95cc-ea94e63bced9&width=200',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: '老古',
