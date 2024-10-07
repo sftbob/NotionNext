@@ -44,7 +44,7 @@ export const Blog = ({ posts }) => {
                         <img
                           src={item.pageCoverThumbnail}
                           alt={item.title}
-                          className='w-full transition group-hover:rotate-1 group-hover:scale-125'
+                          className='w-full transition group-hover: group-hover:scale-105'
                         />
                       </Link>
                     </div>
@@ -55,7 +55,7 @@ export const Blog = ({ posts }) => {
                       <h3>
                         <Link
                           href={item?.href}
-                          className='mb-4 inline-block text-xl font-semibold text-dark hover:text-[[#a61b29] dark:text-white dark:hover:text-[#a61b29] sm:text-2xl lg:text-xl xl:text-2xl'>
+                          className='mb-4 inline-block text-xl font-semibold text-dark hover:text-[#a61b29] dark:text-white dark:hover:text-[#a61b29] sm:text-2xl lg:text-xl xl:text-2xl'>
                           {item.title}
                         </Link>
                       </h3>
