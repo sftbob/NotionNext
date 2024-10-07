@@ -111,9 +111,9 @@ const CONFIG = {
   // 客戶推薦
   STARTER_TESTIMONIALS_ENABLE: true, // 测评区块开关
   STARTER_TESTIMONIALS_TITLE: '來自客戶的推薦',
-  STARTER_TESTIMONIALS_TEXT_1: '我們，真的像朋友家人',
+  STARTER_TESTIMONIALS_TEXT_1: '我們，像朋友家人',
   STARTER_TESTIMONIALS_TEXT_2:
-    '謝謝每一位相信阿哖的客戶，政治人物的一張選票一世情是騙人的!但您的成交，阿哖會持續服務是真的',
+    '謝謝每一位相信阿哖的客戶，您的成交，阿哖會持續服務',
   STARTER_TESTIMONIALS_STAR_ICON: '/images/starter/testimonials/icon-star.svg', // 评分图标
 
   // 这里不支持CONFIG和环境变量，需要一一修改此处代码。
@@ -168,9 +168,9 @@ const CONFIG = {
 
   //   FAQ 常见问题模块
   STARTER_FAQ_ENABLE: true, // 常见问题模块开关
-  STARTER_FAQ_TITLE: '您的疑問我了解',
-  STARTER_FAQ_TEXT_1: '任何疑問歡迎加LINE聯絡我',
-  STARTER_FAQ_TEXT_2: '可先找一下網站上的答案',
+  STARTER_FAQ_TITLE: '關於房仲業務',
+  STARTER_FAQ_TEXT_1: '你認識甚麼樣的房仲呢?',
+  STARTER_FAQ_TEXT_2: '「阿哖了解，買房是人生大事。我會站在您的角度，為您量身打造最適合的購屋方案。無論您是首次購屋的新手，還是經驗豐富的投資者，大師房屋都能提供您最專業的服務。您的需求，就是我的目標。」',
 
   STARTER_FAQ_1_QUESTION: ' 房仲只會介紹貴的房子',
   STARTER_FAQ_1_ANSWER:
