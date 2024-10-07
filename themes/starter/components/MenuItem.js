@@ -16,7 +16,7 @@ export const MenuItem = ({ link }) => {
           <Link
             href={link?.href}
             target={link?.target}
-            className={`ud-menu-scroll mx-8 flex py-2 text-base font-medium text-dark group-hover:text-primary dark:text-white lg:mr-0 lg:inline-flex lg:px-0 lg:py-6 ${router.route === '/' ? 'lg:text-white lg:group-hover:text-white' : ''} lg:group-hover:opacity-70`}>
+            className={`ud-menu-scroll mx-8 flex py-2 text-base font-medium text-dark group-hover:text-[#a61b29] dark:text-white lg:mr-0 lg:inline-flex lg:px-0 lg:py-6 ${router.route === '/' ? 'lg:text-white lg:group-hover:text-white' : ''} lg:group-hover:opacity-70`}>
             {link?.icon && <i className={link.icon + ' mr-2 my-auto'} />}
             {link?.name}
           </Link>
@@ -27,7 +27,7 @@ export const MenuItem = ({ link }) => {
         <li className='submenu-item group relative whitespace-nowrap'>
           {/* 有子菜单的MenuItem */}
           <a
-            className={`relative mx-8 flex items-center justify-between py-2 text-base font-medium text-dark group-hover:text-primary dark:text-white lg:ml-8 lg:mr-0 lg:inline-flex lg:py-6 lg:pl-0 lg:pr-4 ${router.route === '/' ? 'lg:text-white lg:group-hover:text-white' : ''} lg:group-hover:opacity-70 xl:ml-10`}>
+            className={`relative mx-8 flex items-center justify-between py-2 text-base font-medium text-dark group-hover:text-[#a61b29] dark:text-white lg:ml-8 lg:mr-0 lg:inline-flex lg:py-6 lg:pl-0 lg:pr-4 ${router.route === '/' ? 'lg:text-white lg:group-hover:text-white' : ''} lg:group-hover:opacity-70 xl:ml-10`}>
             {link?.icon && <i className={link.icon + ' mr-2 my-auto'} />}
             {link?.name}
 
@@ -49,7 +49,7 @@ export const MenuItem = ({ link }) => {
                   key={index}
                   href={sLink.href}
                   target={link?.target}
-                  className='block rounded px-4 py-[10px] text-sm text-body-color hover:text-primary dark:text-dark-6 dark:hover:text-primary'>
+                  className='block rounded px-4 py-[10px] text-sm text-body-color hover:text-[#a61b29] dark:text-dark-6 dark:hover:text-[#f1939c]'>
                   {/* 子菜单SubMenuItem */}
                   <span className='text-sm ml-4 whitespace-nowrap'>
                     {link?.icon && (
