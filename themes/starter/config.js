@@ -300,48 +300,48 @@ const CONFIG = {
   // 页脚三列菜单组
   STARTER_FOOTER_LINK_GROUP: [
     {
-      TITLE: '关于我们',
+      TITLE: '建置區一',
       LINK_GROUP: [
-        { TITLE: '官方主页', URL: '/#home' },
-        { TITLE: '操作文档', URL: 'https://docs.tangly1024.com/about' },
+        { TITLE: '區一1', URL: '/' },
+        { TITLE: '區一2', URL: '/' },
         {
-          TITLE: '帮助支持',
-          URL: 'https://docs.tangly1024.com/article/how-to-question'
+          TITLE: '區一3',
+          URL: ''
         },
         {
-          TITLE: '合作申请',
-          URL: 'https://docs.tangly1024.com/article/my-service'
+          TITLE: '區一4',
+          URL: ''
         }
       ]
     },
     {
-      TITLE: '功能特性',
+      TITLE: '建置區二',
       LINK_GROUP: [
         {
-          TITLE: '部署指南',
-          URL: 'https://docs.tangly1024.com/article/vercel-deploy-notion-next'
+          TITLE: '二',
+          URL: '/'
         },
         {
-          TITLE: '升级指南',
-          URL: 'https://docs.tangly1024.com/article/how-to-update-notionnext'
+          TITLE: '二',
+          URL: '/'
         },
-        { TITLE: '最新版本', URL: 'https://docs.tangly1024.com/article/latest' }
+        { TITLE: '三', URL: '/' }
       ]
     },
     {
-      TITLE: 'Notion写作',
+      TITLE: '建置區三',
       LINK_GROUP: [
         {
-          TITLE: 'Notion开始写作',
-          URL: 'https://docs.tangly1024.com/article/start-to-write'
+          TITLE: '三',
+          URL: '/'
         },
         {
-          TITLE: '快捷键提升效率',
-          URL: 'https://docs.tangly1024.com/article/notion-short-key'
+          TITLE: '三',
+          URL: '/'
         },
         {
-          TITLE: '中国大陆使用Notion',
-          URL: 'https://docs.tangly1024.com/article/notion-faster'
+          TITLE: '三',
+          URL: '/'
         }
       ]
     }
