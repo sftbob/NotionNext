@@ -129,21 +129,21 @@ const CONFIG = {
     },
     {
       STARTER_TESTIMONIALS_ITEM_TEXT:
-        '很喜欢这个主题，本代码小白用三天台风假期搭建出来了，还根据大佬的教程弄了自定义域名，十分感谢，已请喝咖啡~',
+        '「謝謝哖大師，多虧了您的幫忙，我終於買到夢想中的房子了！從一開始看屋到最後的簽約，您都非常有耐心，而且您對區域的熟悉度很高，幫我找到最適合我的社區，還幫我談到一個很不錯的價格，讓我省了很多心力。真的很感謝您！」',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
         'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F0d33d169-f932-41ff-ac6b-88a923c08e02%2F%25E5%25A4%25B4%25E5%2583%258F.jfif?table=collection&id=7787658d-d5c0-4f34-8e32-60c523dfaba3&width=400',
-      STARTER_TESTIMONIALS_ITEM_NICKNAME: 'Asenkits',
-      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '阿森的百宝袋 站长',
-      STARTER_TESTIMONIALS_ITEM_URL: 'https://asenkits.top/'
+      STARTER_TESTIMONIALS_ITEM_NICKNAME: '鄭先生',
+      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '大學老師',
+      STARTER_TESTIMONIALS_ITEM_URL: ''
     },
     {
       STARTER_TESTIMONIALS_ITEM_TEXT:
-        '呜呜呜，经过一个下午的努力，终于把博客部署好啦，非常感谢Tangly1024大佬的框架和教程，这是我有生之年用过的最好用的博客框架┭┮﹏┭┮。从今之后，我就可以在自己的博客里bb啦，( •̀ ω •́ )y ',
+        '「阿哖，我真的不知道該怎麼表達對您的感謝。在找房子的過程中，我遇到了很多困難，但多虧了您的幫助，我終於找到了屬於我的家。您不僅是我們的房仲，更是我們的朋友。謝謝您！」',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
         'https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6c096b44-beb9-48ee-8f92-1efdde47f3a3%2F338962f1-d352-49c7-9a1b-746e35a7005c%2Fhf.png?table=block&id=ce5a48a9-d77a-4843-a3d9-a78cd4f794ce&spaceId=6c096b44-beb9-48ee-8f92-1efdde47f3a3&width=100&userId=27074aef-7216-41ed-baef-d9b53addd870&cache=v2',
-      STARTER_TESTIMONIALS_ITEM_NICKNAME: 'DWIND',
-      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '且听风吟 站长',
-      STARTER_TESTIMONIALS_ITEM_URL: 'https://www.dwind.top/'
+      STARTER_TESTIMONIALS_ITEM_NICKNAME: 'Boni',
+      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '金融業',
+      STARTER_TESTIMONIALS_ITEM_URL: ''
     },
     {
       STARTER_TESTIMONIALS_ITEM_TEXT:
