@@ -113,7 +113,7 @@ const CONFIG = {
   STARTER_TESTIMONIALS_TITLE: '不只是銷售',
   STARTER_TESTIMONIALS_TEXT_1: '一定是特別的緣分',
   STARTER_TESTIMONIALS_TEXT_2:
-    '最好的廣告，莫過於客戶的口碑。在這專欄裡，我們將為您呈現最真實的客戶評價，讓您更了解我們的產品與服務。相信這些分享，一定能給您帶來更多的幫助',
+    '最好的廣告，莫過於客戶的口碑。呈現最真實的客戶評價，讓您更了解哖大師的服務。相信這些分享，一定能給您帶來更多的幫助',
   STARTER_TESTIMONIALS_STAR_ICON: '/images/starter/testimonials/icon-star.svg', // 评分图标
 
   // 这里不支持CONFIG和环境变量，需要一一修改此处代码。
