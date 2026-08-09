@@ -135,7 +135,7 @@ export const RealEstateHome = ({ posts = [] }) => {
         <p className='mt-5 text-center text-xs text-[#666666]'>以上物件為首頁版型示意，實際物件資訊請以最新公告與專人說明為準。</p>
       </section>
 
-      <section className='bg-white py-24'>
+      <section className='bg-white py-24' aria-label='新店熱門生活圈'>
         <div className='container'>
           <SectionTitle eyebrow='XINDIAN LIVING DISTRICTS' title='新店熱門生活圈' text='從捷運、商圈、學區到河岸生活，快速認識新店五個熱門居住區域。' />
           <div className='grid gap-6 md:grid-cols-2 xl:grid-cols-5'>
