@@ -66,7 +66,7 @@ const Style = () => {
   #theme-starter .sticky{
     position: fixed;
     z-index: 20;
-    background-color: rgb(255 255 255 / 0.8);
+    background-color: rgb(255 255 255 / 0.94);
     transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, -webkit-backdrop-filter;
     transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter;
     transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter, -webkit-backdrop-filter;
@@ -81,7 +81,7 @@ const Style = () => {
   #theme-starter .sticky {
     -webkit-backdrop-filter: blur(5px);
             backdrop-filter: blur(5px);
-    box-shadow: inset 0 -1px 0 0 rgba(0, 0, 0, 0.1);
+    box-shadow: inset 0 -1px 0 0 rgba(17, 17, 17, 0.12);
   }
 
   #theme-starter .sticky .navbar-logo{

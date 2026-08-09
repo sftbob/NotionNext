@@ -4,10 +4,10 @@ import { siteConfig } from '@/lib/config'
  * 另一个落地页主题
  */
 const CONFIG = {
-  STARTER_COLOR_PRIMARY: '#a66f45',
-  STARTER_COLOR_PRIMARY_HOVER: '#895634',
-  STARTER_COLOR_DARK: '#332820',
-  STARTER_COLOR_TEXT_MUTED: '#74685f',
+  STARTER_COLOR_PRIMARY: '#9c0c0c',
+  STARTER_COLOR_PRIMARY_HOVER: '#7a0909',
+  STARTER_COLOR_DARK: '#111111',
+  STARTER_COLOR_TEXT_MUTED: '#555555',
 
   // 默认只展示Logo文字，如果设置了logo图片，会在文字左侧显示图标
   STARTER_LOGO: '', // 普通logo图片 示例：/images/starter/logo/logo.svg
@@ -298,7 +298,7 @@ const CONFIG = {
     }
   ],
 
-  STARTER_FOOTER_SLOGAN: '我们通过技术为品牌和公司创造数字体验。',
+  STARTER_FOOTER_SLOGAN: '專業、誠信、用心，陪你找到真正適合的家。',
 
   // 页脚三列菜单组
   STARTER_FOOTER_LINK_GROUP: [
